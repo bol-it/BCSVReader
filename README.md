@@ -13,4 +13,9 @@
 ### Подключение
 
 1. Скопировать файл BCSVReader.php в каталог App\Libraries
-2. Прописать в контроллере ```php use App\Libraries\BCSVReader; ```
+2. Прописать в контроллере
+```php
+use App\Libraries\BCSVReader;
+```
+
+
