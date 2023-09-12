@@ -7,3 +7,5 @@
     <br/>
   </p>
 </p>
+
+![Downloads](https://img.shields.io/github/downloads/bol-it/BCSVReader/total) ![Contributors](https://img.shields.io/github/contributors/bol-it/BCSVReader?color=dark-green) ![Issues](https://img.shields.io/github/issues/bol-it/BCSVReader) ![License](https://img.shields.io/github/license/bol-it/BCSVReader) 
